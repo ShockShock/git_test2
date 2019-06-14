@@ -6,6 +6,7 @@ public class UserVO {
 	private String name;
 	private String role;
     private int num;
+    private int number;
 	public String getId() {
 		return id;
 	}
