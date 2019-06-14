@@ -57,6 +57,7 @@
 		<tr>
 			<th>조회수</th>
 			<td>${board.cnt }</td>
+			<td>조회수2</td>
 		</tr>
 		<tr>
 			<td colspan="2" class="center">
